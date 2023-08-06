@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\amish\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\WordUnscrambler\Main.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\amish\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\WordUnscrambler\Main.cpp(107,16): warning C4018: '>': signed/unsigned mismatch
+C:\Users\amish\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\WordUnscrambler\Main.cpp(117,14): warning C4018: '<': signed/unsigned mismatch
+  WordUnscrambler.vcxproj -> C:\Users\amish\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\WordUnscrambler\Debug\WordUnscrambler.exe
